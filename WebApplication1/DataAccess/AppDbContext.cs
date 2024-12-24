@@ -6,6 +6,8 @@ namespace WebApplication1.DataAccess
     public class AppDbContext : DbContext
     {
         public DbSet<Language> Languages { get; set; }
+        public DbSet<Game> Games { get; set; }
+        public DbSet<Word> Words { get; set; }
         public AppDbContext(DbContextOptions opt) : base(opt) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

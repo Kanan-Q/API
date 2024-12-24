@@ -9,7 +9,10 @@ namespace WebApplication1.Profiles
         public LanguageProfile()
         {
             CreateMap<LanguageCreateDto, Language>().ForMember(l => l.Icon, lcd => lcd.MapFrom(x => x.IconUrl));
-            //CreateMap<Language,LanguageGetDto>().ForMember(l => l.Icon, lcd => lcd.MapFrom(x => x.IconUrl));
+
+            CreateMap<LanguageUpdateDto, Language>();
+
+            CreateMap<Language,LanguageGetDto>().ForMember(l => l.Icon, lcd => lcd.MapFrom(x => x.Icon));
         }
     }
 }

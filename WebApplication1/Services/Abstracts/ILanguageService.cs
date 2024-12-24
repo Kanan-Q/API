@@ -9,6 +9,6 @@ namespace WebApplication1.Services.Abstracts
         Task CreateAsync(LanguageCreateDto dto);
         Task UpdateAsync(LanguageUpdateDto dto);
         Task DeleteAsync(string code);
-
     }
+
 }

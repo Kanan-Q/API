@@ -4,6 +4,7 @@ using WebApplication1.DTO.Languages;
 using WebApplication1.Entities;
 using WebApplication1.LanguageExceptions;
 using WebApplication1.Services.Abstracts;
+using WebApplication1.Services.Implements;
 
 namespace WebApplication1.Controllers
 {
@@ -14,16 +15,17 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok(await _service.GetAllAsync());
+            var data = await _service.GetAllAsync();
+            var result = _mapper.Map<IEnumerable<LanguageGetDto>>(data);
+            return Ok(result);
         }
         [HttpPost]
         public async Task<IActionResult> Create(LanguageCreateDto dto)
         {
             try
             {
-                //await _service.CreateAsync(dto);
-
-                var data = _mapper.Map<Language>(dto);
+                var data = _mapper.Map<LanguageCreateDto>(dto);
+                await _service.CreateAsync(data);
                 return StatusCode(201, "Created");
             }
             catch (Exception ex)
@@ -50,7 +52,8 @@ namespace WebApplication1.Controllers
         public async Task<IActionResult> Update(LanguageUpdateDto dto)
         {
             if (dto is null) return StatusCode(400, "BadRequest");
-            await _service.UpdateAsync(dto);
+            var data = _mapper.Map<LanguageUpdateDto>(dto);
+            await _service.UpdateAsync(data);
             return StatusCode(200, "Updated");
         }
         [HttpDelete("{code}")]

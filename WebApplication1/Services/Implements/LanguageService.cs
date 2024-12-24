@@ -12,11 +12,6 @@ namespace WebApplication1.Services.Implements
     {
         public async Task CreateAsync(LanguageCreateDto dto)
         {
-            if (await _sql.Languages.AnyAsync(x => x.Code == dto.Code))
-            {
-                throw new LanguageExistException();
-            }
-            await _sql.Languages.AddAsync(_mapper.Map<Language>(dto));
             //    new Entities.Language
             //{
             //    Name = dto.Name,
@@ -24,6 +19,11 @@ namespace WebApplication1.Services.Implements
             //    Icon = dto.IconUrl,
 
             //}
+            if (await _sql.Languages.AnyAsync(x => x.Code == dto.Code))
+            {
+                throw new LanguageExistException();
+            }
+            await _sql.Languages.AddAsync(_mapper.Map<Language>(dto));
             await _sql.SaveChangesAsync();
         }
 
@@ -36,6 +36,7 @@ namespace WebApplication1.Services.Implements
             //    Code = x.Code,
             //    Icon = x.Icon
             //}).ToListAsync();
+
             var data = await _sql.Languages.ToListAsync();
             return _mapper.Map<IEnumerable<LanguageGetDto>>(data);
         }
@@ -57,9 +58,8 @@ namespace WebApplication1.Services.Implements
 
             if (data != null)
             {
-                data.Name = dto.Name;
-                data.Code = dto.Code;
-                data.Icon = dto.Icon;
+                _mapper.Map(dto, data);
+                await _sql.SaveChangesAsync();
             }
             await _sql.SaveChangesAsync();
         }
