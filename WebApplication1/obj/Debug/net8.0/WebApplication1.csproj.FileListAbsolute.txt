@@ -141,3 +141,8 @@ C:\Users\kanan\source\repos\WebApi\WebApplication1\obj\Debug\net8.0\refint\WebAp
 C:\Users\kanan\source\repos\WebApi\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\kanan\source\repos\WebApi\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\kanan\source\repos\WebApi\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\kanan\source\repos\WebApi\WebApplication1\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\kanan\source\repos\WebApi\WebApplication1\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\kanan\source\repos\WebApi\WebApplication1\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kanan\source\repos\WebApi\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+C:\Users\kanan\source\repos\WebApi\WebApplication1\bin\Debug\net8.0\AutoMapper.dll
