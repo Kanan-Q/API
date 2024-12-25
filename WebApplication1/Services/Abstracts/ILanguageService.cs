@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using WebApplication1.DTO.Languages;
+using WebApplication1.DTO.Words;
 
 namespace WebApplication1.Services.Abstracts
 {

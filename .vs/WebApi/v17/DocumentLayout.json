@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\kanan\\source\\repos\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validators\\words\\wordcreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\dto\\words\\wordsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\words\\wordsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\validators\\games\\gamescreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validators\\games\\gamescreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\dto\\words\\wordscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\words\\wordscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validators\\languages\\languagecreatedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +54,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordsUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DTO\\Words\\WordsUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Words\\WordsUpdateDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DTO\\Words\\WordsUpdateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Words\\WordsUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:55:19.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:53:52.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Games\\GamesCreateValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\Games\\GamesCreateValidator.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Games\\GamesCreateValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\Games\\GamesCreateValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:51:05.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WordsCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DTO\\Words\\WordsCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Words\\WordsCreateDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DTO\\Words\\WordsCreateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Words\\WordsCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:55:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\Words\\WordCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:54:02.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageCreateDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "RelativeToolTip": "WebApplication1\\Validators\\Languages\\LanguageCreateDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:53:20.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:33:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:28:30.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Services\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Services\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Abstracts\\IWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:28:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:22:25.715Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,52 +200,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:15:47.323Z",
+              "WhenOpened": "2024-12-25T06:08:27.751Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Language.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Language.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:11:30.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Game.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:06:01.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Word.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Word.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Word.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Word.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:05:31.881Z"
             }
           ]
         }
