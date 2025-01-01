@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LudSPKeY5KE=",
+  "dgSpecHash": "TAfvR9PZjYM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kanan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kanan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

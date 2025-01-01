@@ -11,6 +11,7 @@ namespace WebApplication1.Profiles
             CreateMap<Game, GamesGetDto>();
             CreateMap<GamesCreateDto, Game>();
             CreateMap<GamesUpdateDto, Game>();
+            //CreateMap<GamesStatusDto, Game>();
         }
     }
 }

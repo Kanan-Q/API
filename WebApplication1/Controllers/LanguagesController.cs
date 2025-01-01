@@ -22,31 +22,9 @@ namespace WebApplication1.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(LanguageCreateDto dto)
         {
-            try
-            {
                 var data = _mapper.Map<LanguageCreateDto>(dto);
                 await _service.CreateAsync(data);
                 return StatusCode(201, "Created");
-            }
-            catch (Exception ex)
-            {
-                if (ex is IBaseException bx)
-                {
-                    return StatusCode(bx.StatusCode, new
-                    {
-                        Message = bx.ErrorMessage,
-                        Code = bx.StatusCode,
-                    });
-                }
-                else
-                {
-                    return BadRequest(new
-                    {
-                        ex.Message
-                    });
-                }
-            }
-
         }
         [HttpPut]
         public async Task<IActionResult> Update(LanguageUpdateDto dto)

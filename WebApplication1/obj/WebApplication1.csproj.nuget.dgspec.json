@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\kanan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kanan\\AppData\\Roaming\\NuGet\\NuGet.Config",

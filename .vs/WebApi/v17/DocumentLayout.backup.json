@@ -1,26 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kanan\\source\\repos\\WebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\kanan\\Desktop\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bannedwordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\profiles\\bannedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\profiles\\bannedprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\services\\implements\\bannedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\implements\\bannedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\dto\\bannedword\\bannedupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\bannedword\\bannedupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\bannedword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\services\\abstracts\\ibannedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\abstracts\\ibannedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\dto\\games\\gamesstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\games\\gamesstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\source\\repos\\webapi\\webapplication1\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\dto\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\words\\wordforgamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\dto\\games\\gamescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\games\\gamescreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configurations\\gameconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\configurations\\bannedwordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\configurations\\bannedwordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\languageexceptions\\successgameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\languageexceptions\\successgameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|c:\\users\\kanan\\desktop\\webapi\\webapplication1\\extension\\iqueryableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1CCD0A2-0C56-4BE3-BE0C-638C8E03C2C8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\extension\\iqueryableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,66 +106,263 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LanguagesController.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LanguagesController.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwBEAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BannedProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Profiles\\BannedProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Profiles\\BannedProfile.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Profiles\\BannedProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Profiles\\BannedProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:08:27.751Z",
+              "WhenOpened": "2025-01-01T14:52:10.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication1\\DataAccess\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "WordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Profiles\\WordProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Profiles\\WordProfile.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Profiles\\WordProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Profiles\\WordProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:15:47.323Z",
+              "WhenOpened": "2025-01-01T14:51:56.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Language.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Language.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Language.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Language.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Language.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BannedUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\BannedWord\\BannedUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\BannedWord\\BannedUpdateDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\BannedWord\\BannedUpdateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\BannedWord\\BannedUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:11:30.954Z",
+              "WhenOpened": "2025-01-01T14:48:34.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BannedService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\BannedService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Implements\\BannedService.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\BannedService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Implements\\BannedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:47:35.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Game.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Game.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Game.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Title": "BannedWordsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\BannedWordsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BannedWordsController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\BannedWordsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\BannedWordsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:06:01.392Z"
+              "WhenOpened": "2025-01-01T14:46:48.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\GamesController.cs*",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GamesController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:04:34.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Abstracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Abstracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Abstracts\\IGameService.cs*",
+              "RelativeToolTip": "WebApplication1\\Services\\Abstracts\\IGameService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:05:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\GameService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Implements\\GameService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:32:09.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Word.cs",
-              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Word.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Word.cs",
-              "ToolTip": "C:\\Users\\kanan\\source\\repos\\WebApi\\WebApplication1\\Entities\\Word.cs",
-              "RelativeToolTip": "WebApplication1\\Entities\\Word.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAaAAAAAAAAAA==",
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:05:31.881Z"
+              "WhenOpened": "2025-01-01T14:53:34.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BannedWord.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Entities\\BannedWord.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\BannedWord.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Entities\\BannedWord.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\BannedWord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:50:08.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBannedService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Abstracts\\IBannedService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Abstracts\\IBannedService.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Abstracts\\IBannedService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Abstracts\\IBannedService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:47:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DataAccess\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:31:47.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Configurations\\GameConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Configurations\\GameConfiguration.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Configurations\\GameConfiguration.cs",
+              "RelativeToolTip": "WebApplication1\\Configurations\\GameConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:31:40.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WordForGameDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Words\\WordForGameDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Words\\WordForGameDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Words\\WordForGameDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Words\\WordForGameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:48:55.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GamesStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Games\\GamesStatusDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Games\\GamesStatusDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Games\\GamesStatusDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Games\\GamesStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:00:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GamesCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Games\\GamesCreateDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\Games\\GamesCreateDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\DTO\\Games\\GamesCreateDto.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\Games\\GamesCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:21:17.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BannedWordConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Configurations\\BannedWordConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Configurations\\BannedWordConfiguration.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Configurations\\BannedWordConfiguration.cs",
+              "RelativeToolTip": "WebApplication1\\Configurations\\BannedWordConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:27:11.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SuccessGameException.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\LanguageExceptions\\SuccessGameException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\LanguageExceptions\\SuccessGameException.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\LanguageExceptions\\SuccessGameException.cs",
+              "RelativeToolTip": "WebApplication1\\LanguageExceptions\\SuccessGameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:12:18.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:04:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IQueryableExtension.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Extension\\IQueryableExtension.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Extension\\IQueryableExtension.cs",
+              "ToolTip": "C:\\Users\\kanan\\Desktop\\WebApi\\WebApplication1\\Extension\\IQueryableExtension.cs",
+              "RelativeToolTip": "WebApplication1\\Extension\\IQueryableExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:45:11.18Z",
+              "EditorCaption": ""
             }
           ]
         }

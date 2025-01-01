@@ -1,4 +1,5 @@
 ﻿using WebApplication1.DTO.Games;
+using WebApplication1.DTO.Words;
 
 namespace WebApplication1.Services.Abstracts
 {
@@ -6,7 +7,11 @@ namespace WebApplication1.Services.Abstracts
     {
         Task<IEnumerable<GamesGetDto>> GetAllAsync();
         Task CreateAsync(GamesCreateDto dto);
-        Task UpdateAsync (GamesUpdateDto dto);
-        Task DeleteAsync (Guid id);
+        Task<WordForGameDto> Start(Guid id);
+        Task<WordForGameDto> Fail(Guid id);
+        Task<WordForGameDto> Success(Guid id);
+        Task<WordForGameDto> Skip(Guid id);
+        Task<GamesStatusDto> End(Guid id);
+
     }
 }

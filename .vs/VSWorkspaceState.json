@@ -4,13 +4,12 @@
     "\\WebApplication1",
     "\\WebApplication1\\Controllers",
     "\\WebApplication1\\DTO",
-    "\\WebApplication1\\DTO\\Languages",
+    "\\WebApplication1\\DTO\\Games",
     "\\WebApplication1\\Entities",
-    "\\WebApplication1\\Profiles",
     "\\WebApplication1\\Services",
     "\\WebApplication1\\Services\\Abstracts",
     "\\WebApplication1\\Services\\Implements"
   ],
-  "SelectedNode": "\\WebApplication1\\Profiles\\LanguageProfile.cs",
+  "SelectedNode": "\\WebApplication1\\Services\\Implements\\GameService.cs",
   "PreviewInSolutionExplorer": false
 }

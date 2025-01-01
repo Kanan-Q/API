@@ -25,11 +25,21 @@ namespace WebApplication1.Controllers
             await _service.CreateAsync(data);
             return Ok(data);
         }
+        [HttpPost("[action]")]
+        public async Task<IActionResult> CreateMany(List<WordsCreateDto> dto)
+        {
+            foreach (var item in dto)
+            {
+                var data = _mapper.Map<WordsCreateDto>(dto);
+                await _service.CreateAsync(data);
+            }
+            return Ok();
+        }
 
         [HttpPut]
         public async Task<IActionResult> Update(WordsUpdateDto dto)
         {
-            var data=_mapper.Map<WordsUpdateDto>(dto);
+            var data = _mapper.Map<WordsUpdateDto>(dto);
             await _service.UpdateAsync(data);
             return Ok(data);
         }

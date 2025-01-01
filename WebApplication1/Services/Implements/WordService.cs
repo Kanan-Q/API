@@ -30,7 +30,7 @@ namespace WebApplication1.Services.Implements
             var data = await _sql.Words.Where(x => x.Id ==id).FirstOrDefaultAsync();
             if (data != null)
             {
-                _sql.Games.Remove(data);
+                _sql.Words.Remove(data);
             }
             await _sql.SaveChangesAsync();
         }
